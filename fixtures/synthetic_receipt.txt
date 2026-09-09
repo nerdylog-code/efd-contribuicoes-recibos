@@ -1,0 +1,7 @@
+Documento sintético para demonstração local. Não representa um recibo real.
+Contribuinte: EXEMPLO SINTETICO LTDA
+CNPJ: 00.000.000/0000-00
+Identificação do arquivo: SYNTHETIC-2026
+Período de apuração: 01/01/2026 a 31/01/2026
+EFD Contribuições recebida via Internet pelo Agente Receptor SERPRO em 15/02/2026 às 10:20:30
+Número do Recibo: AA.AA.AA.AA.AA.AA.AA.AA.AA.AA.BB-C
