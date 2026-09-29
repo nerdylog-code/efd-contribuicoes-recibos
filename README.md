@@ -1,3 +1,5 @@
+> **Consolidated:** the document-conference flow this experiment belongs to now lives in [fiscal-document-automation](https://github.com/nerdylog-code/fiscal-document-automation) — document reading (PDF/XML), fiscal rules, reconciliation against the client spreadsheet and the review workbook. This repository is kept as history.
+
 # EFD Contribuicoes Receipts
 
 A local-first Python tool that extracts structured fields from text-layer EFD Contribuicoes receipt PDFs and writes a review-friendly Excel workbook. It demonstrates document parsing, explicit incomplete-status handling, and deterministic export without sending data to an external service.
